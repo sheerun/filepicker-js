@@ -68,3 +68,5 @@
         }
     }
 })();
+
+var filepicker = window.filepicker;
