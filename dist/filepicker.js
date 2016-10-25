@@ -63,6 +63,8 @@
     }
 })();
 
+var filepicker = window.filepicker;
+
 "use strict";
 
 filepicker.extend("comm", function() {
